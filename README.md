@@ -1,5 +1,5 @@
 Nvula Bontes
-- Founder & Lead Architect | Aegis Prime
+- Founder, CEO & Lead Architect | Aegis Prime
 - BSc Mathematical & Computer Sciences (Candidate) — Sol Plaatje University
 - aegisprime: aegis-prime.github.io
 - Demo API: aegis-kernel.onrender.com
